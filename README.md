@@ -9,8 +9,8 @@
 
 <p align="center">
 Olá, bem-vindos! Me chamo Mayara, tenho formação em em Matemática e atualmente estou  em processo <br>
-de transição de carreira para a área de Desenvolvimento Web Full Stack estudando na escola de programação Trybe. <br>
-🌱 I’m currently learning Backend Development
+de transição de carreira para a área de Desenvolvimento Web Full Stack estudando na escola de programação Trybe <br> e Tecnologia em Análise e Desenvolvimento de Sistemas. 
+🌱 Atualmente estou aprendendo sobre Desenvolvimento Backend 
 </p>
 
 <h3 align="center">Languages and Tools</h3>
