@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **salanderaraujo@gmail.com**
 
-- 📄 I have a degree in Mathematics and I am currently in the process of career transition to ​​Software engineering. I am studying at the Trybe programming school and taking the Systems Analysis and Development course. I have skills in HTML, CSS, JavaScript, React (Redux and Context API), Git and GitHub.
+- 📄 I have a degree in Mathematics and I am currently in the process of career transition to ​​Software engineering. I am studying at the Trybe programming school. I have skills in HTML, CSS, JavaScript, React (Redux and Context API), Git and GitHub.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
