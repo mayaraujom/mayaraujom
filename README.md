@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mayara</h1>
 
-<p align="justify">📄 Tenho formação e trabalhei como professora de Matemática por seis anos, ministrando aulas para alunos do ensino básico e concursos e participando de projetos de extensão de como PIBID (Programa Institucional de Bolsa de Iniciação à Docência) e Residência Pedagógica. No início de 2022 iniciei minha jornada de formação em desenvolvimento de Software, onde venho estudando e desenvolvendo projetos na área na escola de programação Trybe. Desde então, desenvolvi habilidades em desenvolvimento Web Front-End como HTML, CSS, JavaScript, React (Redux e Context API) e testes automatizados com React Testing Library. Em relação ao desenvolvimento Web Back-End desenvolvi habilidades em SQL, Node.js (ORM e autenticação) e arquitetura de Software em camadas.</p>
+<p align="justify">📄 No início de 2022 iniciei minha jornada de formação em desenvolvimento de Software, onde venho estudando e desenvolvendo projetos na área na escola de programação Trybe. Desde então, desenvolvi habilidades em desenvolvimento Web Front-End como HTML, CSS, JavaScript, React (Redux e Context API) e testes automatizados com React Testing Library. Em relação ao desenvolvimento Web Back-End desenvolvi habilidades em SQL, Node.js (ORM e autenticação) e arquitetura de Software em camadas.</p>
 
 - 🌱 Atualmente estou estudando **Desenvolvimento Back-end**
 
