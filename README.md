@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mayara</h1>
+<h2 align="center">Hi 👋, I'm Mayara</h2>
 
 <p align="justify">📄 No início de 2022 iniciei minha formação em desenvolvimento de Software, onde venho estudando e desenvolvendo projetos na área na escola de programação Trybe. Desde então, desenvolvi habilidades em HTML, CSS, JavaScript, React (Redux e Context API), testes automatizados com React Testing Library, SQL, Node.js (ORM e autenticação) e arquitetura de Software em camadas.</p>
 
