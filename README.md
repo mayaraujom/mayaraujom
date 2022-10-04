@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋, I'm Mayara</h2>
 
-📄 Front-end Developer, games & food lover, Math teacher and currently learning (and loving) Back-end development.  </p>
+📄 Front-end Developer, game & food lover, Math teacher and currently learning (and loving) Back-end development.  </p>
 
 📫 **salanderaraujo@gmail.com**
 
