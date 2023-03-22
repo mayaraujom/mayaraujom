@@ -1,1 +1,1 @@
-<h5 align="center"> <a href="https://meu-portfolio-lac-eta.vercel.app/" target="_blank" rel="noreferrer"> Portfólio </a> | <a href="https://linkedin.com/in/mayaraujomoraes" target="blank" rel="noreferrer"> LinkedIn </a> | JavaScript ◾ TypeScript ◾ C# ◾ React ◾ Angular ◾ .NET ◾ Node.js</h5>
+<h5 align="center"> <a href="https://meu-portfolio-lac-eta.vercel.app/" target="_blank"> Portfólio </a> | <a href="https://linkedin.com/in/mayaraujomoraes" target="_blank"> LinkedIn </a> | JavaScript ◾ TypeScript ◾ C# ◾ React ◾ Angular ◾ .NET ◾ Node.js</h5>
